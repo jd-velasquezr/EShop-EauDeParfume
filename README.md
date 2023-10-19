@@ -1,9 +1,9 @@
-Título del Proyecto: ECommerce - Eau de Parfume
+# Título del Proyecto: ECommerce - Eau de Parfume
 
-Introducción:
+# Introducción:
 Bienvenido al repositorio de "Nombre del Proyecto", un emocionante proyecto de desarrollo web que se enfoca en brindar a los usuarios una experiencia completa de comercio electrónico. Este proyecto utiliza una variedad de tecnologías, incluyendo PHP, JavaScript, HTML y SQL para administrar las bases de datos de usuarios y productos asociados.
 
-Descripción del Proyecto:
+# Descripción del Proyecto:
 El Ecommerce "Nombre del Proyecto" ofrece a los clientes una plataforma integral para explorar y comprar productos de manera conveniente. Algunas de las principales funcionalidades del sitio web incluyen:
 
 Catálogo de Productos: Los clientes pueden explorar un catálogo de productos completo, con detalles y fotografías de cada artículo.
@@ -24,4 +24,4 @@ Revisión de Mensajes: Controlar y responder a los mensajes de los clientes.
 
 Gestión de Inventario: Mantener un control estricto sobre el stock de productos, cambiar precios, agregar o eliminar productos y generar notificaciones cuando un producto se encuentra agotado.
 
-Este proyecto es una solución integral para el comercio electrónico que brinda a los usuarios y administradores las herramientas necesarias para una experiencia fluida y exitosa. 
+# Este proyecto es una solución integral para el comercio electrónico que brinda a los usuarios y administradores las herramientas necesarias para una experiencia fluida y exitosa. 
