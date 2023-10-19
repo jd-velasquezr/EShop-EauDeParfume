@@ -1,4 +1,4 @@
-# Título del Proyecto: ECommerce - Eau de Parfume
+# ECommerce - Eau de Parfume
 
 # Link del sitio web: https://eaudeparfume.000webhostapp.com/EaudeParfum/home.php
 
