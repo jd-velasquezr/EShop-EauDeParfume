@@ -3,7 +3,7 @@
 # Link del sitio web: https://eaudeparfume.000webhostapp.com/EaudeParfum/home.php
 
 # Introducción:
-Bienvenido al repositorio de "Nombre del Proyecto", un emocionante proyecto de desarrollo web que se enfoca en brindar a los usuarios una experiencia completa de comercio electrónico. Este proyecto utiliza una variedad de tecnologías, incluyendo PHP, JavaScript, HTML y SQL para administrar las bases de datos de usuarios y productos asociados.
+Bienvenido al repositorio de "ECommerce - Eau de Parfume", un emocionante proyecto de desarrollo web que se enfoca en brindar a los usuarios una experiencia completa de comercio electrónico. Este proyecto utiliza una variedad de tecnologías, incluyendo PHP, JavaScript, HTML y SQL para administrar las bases de datos de usuarios y productos asociados.
 
 # Descripción del Proyecto:
 El Ecommerce "Nombre del Proyecto" ofrece a los clientes una plataforma integral para explorar y comprar productos de manera conveniente. Algunas de las principales funcionalidades del sitio web incluyen:
